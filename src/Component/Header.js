@@ -15,16 +15,17 @@ const Header = () => {
       <div className="html-section">
         <div className="html-project">
           <div className="navigation">
+            <h2 className='fio'>FioCodeTech</h2>
             <nav>
               <ul className="nav-type">
+              
                 
                 <li><a href="/" target="_blank" className="active1">About</a></li>
                 <li><a href="/" target="_blank" className="active2">Contact</a></li>
                 <li><a href="/" target="_blank" className="active3">Skills</a></li>
                 <li><a href="/" target="_blank" className="active3">Projects</a></li>
                 
-                {/* <div className="line"></div> */}
-                  {/* <li><a href="/"><i className="fa fa-search" onClick={show}></i></a></li> */}
+                
                 </ul>
             </nav>
           </div>
