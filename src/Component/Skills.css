@@ -1,0 +1,36 @@
+/* src/components/Skills.css */
+.skills-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .skill-category {
+    margin-bottom: 20px;
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 10px;
+  }
+  
+  .skill-category h3 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .skill-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .skill-list li {
+    display: inline-block;
+    margin: 5px;
+    padding: 8px 12px;
+    background-color: #f1f1f1;
+    border-radius: 4px;
+    font-size: 0.9rem;
+  }
+  
+  /* Add more custom styling as needed */
+  
